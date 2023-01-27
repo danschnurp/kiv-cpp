@@ -1,0 +1,25 @@
+ARENA
+# <šířka_arény> <výška arény>
+70.0 70.0
+# <velikost kroku>
+2.0
+# <max. počet kroků>
+100
+# <příznaky>
+## simulace se ukončí v momentě detekce první kolize
+### end_after_collision
+## pro každý objekt se bude ukládat vzdálenost, kterou objekt urazil a připojí se do výsledného reportu
+### report_distance
+end_after_collision, report_distance
+OBJECTS
+# <typ objektů> square (čtverec) rectangle (obdélník)
+rectangle
+# <počet>
+2
+#                           <centimetry za "virtuální vteřinu">                     ball: <poloměr>
+#										      square: <délka strany>
+#										      rectangle: <délka vodorovné strany> <délka svislé strany>
+# <název> <poč. X> <poč. Y> <rychlost X> <rychlost Y> <čas objevení> <čas zmizení> <parametry specifické pro typ>
+#  Ab_1     50.0     50.0       2.0          6.0           1.0              20.0           2.0
+rc_1 50.0 50.0 2.0 6.0 5.0 20.0 4.0 15.0
+rc_2 60.0 60.0 2.0 6.0 5.0 20.0 4.0 2.0

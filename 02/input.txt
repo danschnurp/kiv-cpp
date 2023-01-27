@@ -1,0 +1,13 @@
+insert(ale,1,2,3)
+insert(neco1,1,2,3,neco,ty:to)
+insert(neco:1,3)
+average()
+average(neco:1)
+insert(2.0,3)
+key_equals(2.0)
+key_lesser(1.0)
+max()
+min()
+delete(ale)
+KEY_EQUALS(ale)
+exit

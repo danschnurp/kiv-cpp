@@ -1,0 +1,38 @@
+OK
+1 Row(s).
+
+> OK
+1 Row(s).
+
+> OK
+1 Row(s).
+
+> OK
+2.14286 average.
+
+> OK
+3 average.
+
+> OK
+1 Row(s).
+
+> OK
+1 Row(s).
+2.000000 -  3
+
+> ERROR
+Key not found.
+
+> OK
+neco 3    first: ty second: to 
+
+> OK
+ 1    
+
+> OK
+1 Row(s).
+
+> ERROR
+Key not found.
+
+> Bye.
